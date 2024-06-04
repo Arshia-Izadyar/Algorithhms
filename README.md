@@ -17,7 +17,7 @@ my journy in Algorithhms
 
 # At this point you good 
 
-# do it if you really what to:
+## do it if you really what to:
 
 ### The Book
 - https://mitpress.mit.edu/9780262046305/introduction-to-algorithms/
