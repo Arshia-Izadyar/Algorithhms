@@ -15,6 +15,9 @@ my journy in Algorithhms
 ### Data structures in C
 - https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P
 
+### Practice neetCode
+- https://neetcode.io/practice
+
 # At this point you good 
 
 ## do it if you really what to:
@@ -27,11 +30,8 @@ my journy in Algorithhms
 ### Advanced Algorithms and Data Structures 
 - https://www.manning.com/books/advanced-algorithms-and-data-structures
 
-### Practice neetCode
-- https://neetcode.io/practice
-
 ### Advanced Data structures
 - https://www.amazon.de/Advanced-Data-Structures-Peter-Brass/dp/1108735517
 
-### The desigm manual
+### The Algorithhm desigm manual
 - https://www.amazon.de/-/en/Steven-S-S-Skiena/dp/1849967202
