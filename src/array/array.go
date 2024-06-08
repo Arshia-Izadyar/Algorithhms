@@ -8,7 +8,6 @@ func main() {
 
 	var newArr = [3]int{}
 
-
 	newArr[1] = 23
 	newArr[2] = 44
 
